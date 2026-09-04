@@ -15,7 +15,7 @@
 
   <!--Include templates/rules for: S-412 Warning Features-->
   <xsl:include href="WindWarning.xsl"/>
-  <xsl:include href="SignificantWaveHeightWarning.xsl"/>
+  <xsl:include href="WaveHeightWarning.xsl"/>
   <xsl:include href="IceAccretionWarning.xsl"/>
   <xsl:include href="ThunderstormWarning.xsl"/>
   <xsl:include href="RestrictedVisibilityWarning.xsl"/>
