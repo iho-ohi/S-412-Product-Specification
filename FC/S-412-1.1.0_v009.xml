@@ -696,7 +696,6 @@
             <S100FC:role ref="dataProviderInformation"/>
         </S100FC:S100_FC_InformationAssociation>
     </S100FC:S100_FC_InformationAssociations>
-    <S100FC:S100_FC_FeatureAssociations/>
     <S100FC:S100_FC_InformationTypes>
         <S100FC:S100_FC_InformationType>
             <S100FC:name>Data Provider</S100FC:name>
